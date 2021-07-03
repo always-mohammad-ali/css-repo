@@ -1,0 +1,15 @@
+h3{
+    color: fuchsia;
+    font-family: monospace;
+}
+h1{
+    color: rgba(2, 255, 221, 0.692);
+    background-color: rgb(0, 0, 0);
+    width:50%;
+    border: 10px solid rgb(148, 228, 0);
+    margin: 30px 30px 30px 300px;
+    text-align: center;
+    padding: 10px;
+    font-weight: 500;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
